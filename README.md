@@ -1,0 +1,1 @@
+# playstore-privacy-policy
