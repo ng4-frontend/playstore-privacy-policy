@@ -1,6 +1,5 @@
-# playstore-privacy-policy
+# ClimaLite Privacy Policy
 
-### ClimaLite Privacy Policy
 1. Introduction
    
 This privacy policy applies to the ClimaLite app (hereby referred to as "Application") for mobile devices that was created by Venkata B (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
