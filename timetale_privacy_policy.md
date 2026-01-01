@@ -12,7 +12,25 @@ With your permission, the app collects your device’s location (latitude and lo
 You may disable location services at any time in your device settings.
 Even with location disabled, you can still use all core features by manually selecting a location in Google Maps. The only limitation is that the Moments page will not automatically default to your current location.
 
-2.2 Technical Information
+2.2 Device Data
+Data Collection:
+Our app collects the following information:
+- Device identifier (for analytics)
+- Device model and OS version (for compatibility)
+- App version (for support)
+- Location data (optional, only if permission granted)
+
+Purpose:
+This data is used solely for app functionality, analytics,  and improving user experience.
+
+Third-party sharing:
+This data is transmitted to our servers and not shared with third parties.
+
+Data retention:
+Data is retained for analytics purposes and can be requested 
+for deletion by contacting [ng4.developerslab@gmail.com].
+
+2.3 Technical Information
 
 The app makes only two types of external API requests, both strictly related to location retrieval:
 
